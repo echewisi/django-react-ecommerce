@@ -1,4 +1,4 @@
-env
+.env
 **/*.pyc
 **/__pycache__
 node_modules
@@ -7,3 +7,7 @@ static
 media
 package-lock.json
 *README.md
+db.sqlite3
+migrations
+__init__.py
+.vscode
